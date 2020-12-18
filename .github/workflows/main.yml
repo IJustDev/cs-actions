@@ -1,3 +1,4 @@
+on: ["push"]
 name: "main"
 steps:
     - uses: actions/checkout@main
